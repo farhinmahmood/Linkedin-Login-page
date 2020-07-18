@@ -1,0 +1,177 @@
+body{
+	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue","Fira Sans",Ubuntu,Oxygen,"Oxygen Sans",Cantarell,"Droid Sans","Apple Color Emoji","Segoe UI Emoji","Segoe UI Emoji","Segoe UI Symbol","Lucida Grande",Helvetica,Arial,sans-serif;
+  margin: 0px;
+}
+.containar{
+	text-align:center;
+
+}
+.header{
+	 background-color: #283e4a;
+	 height: 8px;
+	 width: 100%;
+	 position: fixed;
+	 margin: 0px;
+	 padding-left: 0px;
+	 top: 0;
+	 display: flex;
+	
+}
+.logo{
+	margin-top: 70px;
+	height: 50px;
+	width: auto;
+}
+.tittle{
+	color: black;
+	font-family:inherit;
+	font-size: 23px;
+	margin-top: 15px;
+	cursor: default;
+}
+.middle{
+	color: grey;
+  margin-bottom: 0px;
+}
+input[type=text] {
+  
+
+  width: 395px;
+  height: 52px;
+  padding-left: 9x;
+  margin-top: 0px;
+  font-size: 20px;
+  font-weight: 400
+  background-color: white;
+  color: white;
+  font-family: inherit;
+  border: 1px solid black;
+  border-radius: 2px;
+
+}
+input[type=password] {
+  
+
+  width: 395px;
+  height: 50px;
+  padding-left: 9x;
+  margin-top: 0px;
+  font-size: 20px;
+  background-color: white;
+  color: white;
+  font-family: inherit;
+  border: 1px solid black;
+  border-radius: 2px;
+
+}
+::placeholder{
+  color: black;
+  font-size: 17px;
+  padding-left: 10px;
+ font-family: inherit;}
+
+.text-btn{
+
+  width: 397px;
+  height: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 600;
+  background-color: #0073b1;
+  color: white;
+  font-family: inherit;
+  border: none;
+  border-radius: 2px;
+  outline-width: 2px;
+  padding: 0 24px;
+  position: relative;
+  opacity: 2;
+}
+.p a{
+	font-family:inherit;
+	margin-top: 50px;
+
+	font-size: 14px;
+	color: #665ed0;
+	cursor: pointer;
+}
+
+.p:hover{
+	background-color: #ADD8E6	;
+}
+
+ a{
+	color: #665ed0;
+	text-decoration: none;
+}
+ a:hover{
+	opacity: 2;
+
+}
+
+.last{
+  margin-bottom: 270px;
+}
+
+
+.footer {
+  border-top: 1px solid rgba(0,0,0,0.15);
+  background-size: 100%
+  margin-top: 2px;
+  margin-bottom: 70px;
+
+  margin-left: 0px;
+  
+  width: 100%;
+  font-size: 12px;
+  font-family: inherit;
+  text-align: center;
+  font-weight: bold;
+  padding-left: 5px;
+}
+
+.footer li {
+  display: block;
+  float: left;
+  margin-left: 2px;
+  color: grey;
+  font-family: inherit;
+  padding-left: 5px;
+
+}
+
+.footer li a {
+  display: inline-block;
+  /*padding: 3px;*/
+  text-decoration: none;
+  background-color: #fff;
+  
+  font-family: inherit;
+  font-size: 12px;
+  
+  padding-right: 5px;
+  
+  line-height: 1.33333;
+  font-weight: 600;
+  color: rgba(0,0,0,0.6);
+
+}
+
+.footer a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+#foo{
+  margin-top: 25px;
+  margin-left: 450px;
+}
+
+
+
+
+
+
+
+
+
